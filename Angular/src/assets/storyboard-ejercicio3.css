@@ -1,0 +1,39 @@
+*{ 
+    box-sizing: border-box;
+    background-color:antiquewhite ;
+    font-family: 'Joan', serif;
+    }
+    
+    h1 {
+        
+        font-size:xx-large;
+    text-align: center;
+    }
+    
+    p.section{
+        display: inline-block;
+    width: 350px;
+    height: 350px;
+    background-color:coral;
+    border-radius: 5%;
+    padding:50px;
+    text-align: right;
+    }
+
+ .main-header {background-color: #a9069e;
+        padding: 8px 8px;
+        width: 100%;
+        display: inline-block;
+        color:black;
+        text-align: center;
+ }
+
+li.main-nav { 
+    display: inline-block;
+    background-color: rgb(255, 0, 25);
+}
+
+ul.main-nav {
+    display: inline-block;
+    background-color: rgb(241, 165, 225);
+}
